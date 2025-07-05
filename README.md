@@ -24,4 +24,4 @@ A simple terminal-based Blackjack card game implemented in Python. Play against 
 ### ▶️ How to Run
 
 ```bash
-python blackjack.py
+python blackjack/main.py
