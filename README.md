@@ -1,6 +1,6 @@
 # 🃏 Blackjack Terminal Game (Python)
 
-A simple terminal-based Blackjack card game implemented in Python. Play against the computer (dealer) by making strategic choices — hit or stand — and aim to get 21 without going bust!
+A terminal-based Blackjack card game implemented in Python. Play against the computer (dealer) by making strategic choices — hit or stand — and aim to get 21 without going bust!
 
 ---
 
